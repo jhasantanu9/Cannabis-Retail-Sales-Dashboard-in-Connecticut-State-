@@ -3,7 +3,7 @@
 ## Overview
 This dashboard presents a comprehensive analysis of cannabis retail sales in Connecticut State, covering both adult-use cannabis and medical marijuana markets. The visualizations provide insights into total retail sales, the number of products sold, and average product prices over the years 2023 and 2024.
 
-![Cannabis Retail Sales Dashboard](./Dashboard%203.png)
+[Cannabis Retail Sales Dashboard](./Dashboard%203.png)
 
 ## Data Source
 The data used in this dashboard is sourced from the [Cannabis Retail Sales by Week Ending](https://data.ct.gov/Health-and-Human-Services/Cannabis-Retail-Sales-by-Week-Ending/ucaf-96h6/about_data) dataset, provided by the Connecticut Health and Human Services department. This dataset contains preliminary weekly retail sales data for both adult-use cannabis and medical marijuana products.
