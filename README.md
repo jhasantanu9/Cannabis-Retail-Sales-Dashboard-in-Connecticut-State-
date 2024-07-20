@@ -42,9 +42,8 @@ The dashboard is designed to provide policymakers, market analysts, and business
 ## Dependencies
 The following tools and libraries were used to create the dashboard:
 - Tableau for data visualization
-- Python for data preprocessing and analysis
-- Pandas for data manipulation
-- Numpy for numerical analysis
+- Excel for data preprocessing and analysis
+
 
 ## Conclusion
 The Cannabis Retail Sales in Connecticut State dashboard offers valuable insights into market trends, helping stakeholders understand the dynamics of cannabis sales. By analyzing the provided data, users can gain a better understanding of consumer behavior, market growth, and pricing strategies within the cannabis industry.
